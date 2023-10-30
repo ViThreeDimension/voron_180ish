@@ -71,13 +71,13 @@
 |   [ ]   |                    |NEMA17 Motor 17HS08-1004S                                     |1                                     |                |      |      |
 |   [ ]   |Vibration Management|Rubber Foot (1.5x.75"                                         | 38x19mm)                             |4               |      |      |
 |   [ ]   |Frame               |OpenBuilds Billet Angle Corner Connector (2020)               |4                                     |                |      |      |
-|   [ ]   |                    |Misumi HFSB5-2020-160                                         |1                                     |                |      |      |
 |   [ ]   |                    |DIN 3 Rails (35mm W) - 285mm                                  |2                                     |                |      |      |
-|   [ ]   |                    |Misumi HFSB5-2020-250                                         |1                                     |                |      |      |
+|   [ ]   |                    |Misumi HFSB5-2020-170                                         |1                                     |                |      |      |
+|   [ ]   |                    |Misumi HFSB5-2020-260                                         |1                                     |                |      |      |
 |   [ ]   |                    |Misumi HFSB5-2020-320                                         |2                                     |                |      |      |
-|   [ ]   |                    |Misumi HFSB5-2020-290-TPW                                     |4                                     |                |      |      |
+|   [ ]   |                    |MMisumi HFSB5-2020-300-TPW                                    |4                                     |                |      |      |
 |   [ ]   |                    |Misumi HFSB5-2020-340-TPW                                     |6                                     |                |      |      |
-|   [ ]   |                    |Misumi HFSB5-2020-330-LCP-RCP                                 |4                                     |                |      |      |
+|   [ ]   |                    |Misumi HFSB5-2020-380-LCP-RCP                                 |4                                     |                |      |      |
 |   [ ]   |Misc                |Fume Extractor Carbon Filter Element                          |1                                     |                |      |      |
 |   [ ]   |                    |4mm Threaded Bowden Coupler                                   |1                                     |                |      |      |
 |   [ ]   |                    |3M VHB Tape 5952                                              |1                                     |                |      |      |
@@ -125,6 +125,8 @@
 |   [ ]   |                    |Adhesive Magnetic Sheet - 7"x9"                               |1                                     |                |      |      |
 |   [ ]   |                    |Spring Steel Flexible Print Surface - 7"x9"                   |1                                     |                |      |      |
 |   [ ]   |                    |Keenovo Silicone AC Heater w/ thermistor - 120x170mm (200W)   |1                                     |                |      |      |
+
+
 
 # Mods BOM
 ## Xol2 toolhead [github](https://github.com/Armchair-Engineering/Xol-Toolhead/)
